@@ -6,13 +6,19 @@ public class EnableOptions : MonoBehaviour
 {
     // Start is called before the first frame update
 
-    public GameObject Cog;
-   
+    public GameObject HighlightImage;
+    public SpriteRenderer HighlightSprite;
    
 
     private void OnMouseEnter()
     {
-        
+        HighlightSprite.enabled = true;
+    }
+
+
+    private void OnMouseExit()
+    {
+        HighlightSprite.enabled = false;
     }
 
     void Start()
