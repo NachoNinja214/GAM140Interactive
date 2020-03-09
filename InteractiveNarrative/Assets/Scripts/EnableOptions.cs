@@ -8,11 +8,13 @@ public class EnableOptions : MonoBehaviour
 
     public GameObject HighlightImage;
     public SpriteRenderer HighlightSprite;
+    Animator anim;
    
 
     private void OnMouseEnter()
     {
         HighlightSprite.enabled = true;
+        anim.Play("Cog");
     }
 
 
@@ -23,7 +25,7 @@ public class EnableOptions : MonoBehaviour
 
     void Start()
     {
-        
+        anim = gameObject.GetComponent<Animator>();
     }
 
     // Update is called once per frame
