@@ -253,7 +253,7 @@ MonoBehaviour:
     width: 1243
     height: 1069
   selectedBlocks:
-  - {fileID: 163284002}
+  - {fileID: 163283984}
   selectedCommands: []
   variables:
   - {fileID: 163283985}
@@ -314,6 +314,7 @@ MonoBehaviour:
   - {fileID: 163283989}
   - {fileID: 163283988}
   - {fileID: 163283986}
+  suppressAllAutoSelections: 0
 --- !u!114 &163283985
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -426,6 +427,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   parentBlock: {fileID: 163283984}
+  suppressBlockAutoSelect: 1
   targetButton: {fileID: 373310154}
 --- !u!114 &163283991
 MonoBehaviour:
@@ -483,6 +485,7 @@ MonoBehaviour:
   - {fileID: 163283996}
   - {fileID: 163283991}
   - {fileID: 163283995}
+  suppressAllAutoSelections: 0
 --- !u!114 &163283993
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -496,6 +499,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   parentBlock: {fileID: 163283992}
+  suppressBlockAutoSelect: 0
   waitForFrames: 1
 --- !u!114 &163283994
 MonoBehaviour:
@@ -655,6 +659,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   parentBlock: {fileID: 163284002}
+  suppressBlockAutoSelect: 0
   targetInputField: {fileID: 1229749173}
 --- !u!114 &163284002
 MonoBehaviour:
@@ -684,6 +689,7 @@ MonoBehaviour:
   eventHandler: {fileID: 163284001}
   commandList:
   - {fileID: 163284000}
+  suppressAllAutoSelections: 0
 --- !u!1 &373310152
 GameObject:
   m_ObjectHideFlags: 0
