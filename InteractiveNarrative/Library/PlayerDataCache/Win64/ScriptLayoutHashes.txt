@@ -332,6 +332,7 @@ fb6a1ea36b4f6ef5948d283d93760765 UnityEngine.GoogleAudioSpatializer.dll:UnityEng
 5b0391b7e3d9ea9db6c0a8fbd0ca23f6 UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioSourceExtension
 11a080b0cb3b0bf4b147836422f9c308 Assembly-CSharp.dll:Fungus.If
 71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:Fungus.SceneLoader
+544465e396200a5079d32660e58d0a12 Assembly-CSharp.dll:.OptionsMenu
 dd07a5fd2657645a80a1d75dd526a99a Assembly-CSharp.dll:Fungus.SetText
 b24864bccd854f96f74ac760a6d3e78b Assembly-CSharp.dll:Fungus.SetSpriteOrder
 91ec584a0e8540d59481e6ae9f321df6 Assembly-CSharp.dll:Fungus.CallMethod
@@ -402,4 +403,3 @@ d89d044876092915bc5f73da27ab2e4b Assembly-CSharp.dll:Fungus.DebugLog
 bcd472915367e22db9727012c17556c2 Assembly-CSharp.dll:Fungus.SaveMenu
 71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:Fungus.LuaStore
 1f76ea5884b6181417b2956f7198bc58 Assembly-CSharp.dll:Fungus.MoveLean
-544465e396200a5079d32660e58d0a12 Assembly-CSharp.dll:.OptionsMenu
