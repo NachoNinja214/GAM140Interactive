@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-E:/Builds/InteractiveNarrative.exe
+E:/Builds/Hand In/InteractiveNarrative.exe
 SceneListBegin?
 Assets/Scenes/MainMenu.unity
 Assets/Scenes/IntroScene.unity
@@ -87,8 +87,11 @@ a031f6cf52078e614736198192e8caba Assembly-CSharp.dll:Fungus.Sign
 2124ecdd8b9ba69c9896c9356a0d7d40 Assembly-CSharp.dll:Fungus.RotateLean
 87c6f528fe7cae561da8e0a936be8843 Assembly-CSharp.dll:Fungus.SayDialog
 4585ed430407dc1f7d9934e267af75d2 Assembly-CSharp.dll:Fungus.Rigidbody2DVariable
+71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.Advertisements.dll:UnityEngine.Advertisements.CallbackExecutor
+71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.Advertisements.dll:UnityEngine.Advertisements.Editor.Placeholder
 71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:Fungus.MusicManager
 385625e62bc7b3479dc3fda46d93e60b Assembly-CSharp.dll:Fungus.LuaElseIf
+bd68317a3611d7845f25f4403023e866 Assembly-CSharp.dll:.RandomEvents
 e2dec1f6f2ba1344aa2a8168e6f54702 Assembly-CSharp.dll:Fungus.SetAnimBool
 7d2142ddea3e56a6ed85c6a71dd5cf60 Assembly-CSharp.dll:Fungus.Trig
 cf9f5cf2c3145a37ac07f00e50e460f9 UnityEngine.UI.dll:UnityEngine.UI.AspectRatioFitter
